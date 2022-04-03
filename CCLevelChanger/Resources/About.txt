@@ -1,0 +1,3 @@
+Tool for modifying "Creature Conflict: The Clan Wars" game save files.
+
+Written by Nve.
